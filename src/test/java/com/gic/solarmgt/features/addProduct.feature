@@ -1,7 +1,7 @@
 Feature: Verify Add Product feature
   As a user
   I should be able to add Products.
-
+//code change
   # AC1 : verify Product Add feature allows to add products when we provide valid product details.
   # first scenario
 @addProducts
